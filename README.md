@@ -1,0 +1,1 @@
+It is Fast API Project User Management in which I have done Crud for users and also in this I have done Authentication using JWT Token where Access Token and Refresh Token will generate when we will login and after that access token will expires in 5 mins or u can set your expiration time. 
